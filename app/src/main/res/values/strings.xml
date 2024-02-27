@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgitaLuz</string>
+    <string name="notification_title_lanterna_on">É tão brilhante 😮</string>
+    <string name="notification_title_lanterna_off">Me agite e faça luz! 🌞</string>
+    <string name="notification_text_running_lanterna">Agite 1x para desligar a lanterna</string>
+    <string name="notification_text_stopped_lanterna">Agite 2x para ativar a lanterna</string>
+</resources>
